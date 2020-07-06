@@ -1,6 +1,6 @@
 # AG's mind
 
-This is my public mind. These notes were created using 
+This is my public mind. These notes were created using [foam](https://foambubble.github.io/foam/)
 
 ## Cool Repos
 
