@@ -10,6 +10,10 @@ This is my public mind. These notes were created using [foam](https://foambubble
 
 Check up on new uncategoried notes in the [[inbox]]
 
+## PWA Store
+
+[[pwastore-logs]]
+
 ## Other
 
 [[make-wiki-links]]  
